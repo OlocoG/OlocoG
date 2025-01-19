@@ -93,8 +93,8 @@ I worked together with more colleagues to design a page for gym subscriptions al
   
 - **Backend Rol:** Third-party authentication, token generation and role management, database configuration along with management of relationships between entities, generation of different CRUDs, etc.  
 **Tecnologies:** Next.js, TailwindCSS, Nest.js, Nodemailer, PostgreSQL, GooglePassportOauth20, Vercel, Render, JWT, OpenAi, Stripe, GoogleApi, Swagger.  
-🔗 [Repositorio Backend](https://github.com/OlocoG/Active_365_Back)  
-🔗 [Repositorio Frontend](https://github.com/MilagrosLuque/Active_365_deploy_front)  
+🔗 [Repository Backend](https://github.com/OlocoG/Active_365_Back)  
+🔗 [Repository Frontend](https://github.com/MilagrosLuque/Active_365_deploy_front)  
 
 ## 📥📨 Contact:
 
