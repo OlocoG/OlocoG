@@ -94,10 +94,30 @@ I worked together with more colleagues to design a page for gym subscriptions al
 - **Backend Rol:** Third-party authentication, token generation and role management, database configuration along with management of relationships between entities, generation of different CRUDs, etc.  
 **Tecnologies:** Next.js, TailwindCSS, Nest.js, Nodemailer, PostgreSQL, GooglePassportOauth20, Vercel, Render, JWT, OpenAi, Stripe, GoogleApi, Swagger.  
 🔗 [Repository Backend](https://github.com/OlocoG/Active_365_Back)  
-🔗 [Repository Frontend](https://github.com/MilagrosLuque/Active_365_deploy_front)  
+🔗 [Repository Frontend](https://github.com/MilagrosLuque/Active_365_deploy_front)
+
+
+### 💊 **La pepera**
+**Description:**
+Smart device for assisting in the administration of medicines. It consists of 7 compartments (1 corresponding to each day of the week), where 1 type of pill can be stored.
+**Tecnologies:** Gitlab, Qt, Arduino Ide, C++.
+🔗 [Repository](https://gitlab.com/Franklin1001/la-pepera)
+
+### 🦦🤖 **Mustela**
+**Description:**
+Modular robot for search and rescue assistance in collapsed structures.
+**Tecnologies:** Raspberry Pi, Phyton, Freecad, Kicad, GNU/Linux.
+🔗 [Repository](https://gitlab.com/mustela/documentation)
+
+### 🐍🤖 **Borescope**
+**Description:**
+Cámara boroscópica para asistencia en tareas de búsqueda y rescate en estructuras colapsadas
+**Tecnologies:** Raspberry Pi, Phyton, Freecad, Kicad, GNU/Linux.
+🔗 [Repository](https://gitlab.com/boroscope/documentation)
 
 ## 📥📨 Contact:
 
 - 📧 Email santillanfrancisco075@gmail.com
 - 🎮 Discord Id: 398635253327200268
 - 🔗 LinkedIn: [Francisco Santillan](https://www.linkedin.com/in/francisco-santillan-ab9027263/)
+
