@@ -113,7 +113,7 @@ Modular robot for search and rescue assistance in collapsed structures.
 **Description:**
 Cámara boroscópica para asistencia en tareas de búsqueda y rescate en estructuras colapsadas
 **Tecnologies:** Raspberry Pi, Phyton, Freecad, Kicad, GNU/Linux.
-🔗 [Repository]([https://gitlab.com/boroscope/documentation](https://gitlab.com/boroscope/software))
+🔗 [Repository](https://gitlab.com/boroscope/software)
 
 ## 📥📨 Contact:
 
