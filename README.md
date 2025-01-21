@@ -107,13 +107,13 @@ Smart device for assisting in the administration of medicines. It consists of 7 
 **Description:**
 Modular robot for search and rescue assistance in collapsed structures.
 **Tecnologies:** Raspberry Pi, Phyton, Freecad, Kicad, GNU/Linux.
-🔗 [Repository](https://gitlab.com/mustela/documentation)
+🔗 [Repository](https://gitlab.com/mustela/hardware)
 
 ### 🐍🤖 **Borescope**
 **Description:**
 Cámara boroscópica para asistencia en tareas de búsqueda y rescate en estructuras colapsadas
 **Tecnologies:** Raspberry Pi, Phyton, Freecad, Kicad, GNU/Linux.
-🔗 [Repository](https://gitlab.com/boroscope/documentation)
+🔗 [Repository]([https://gitlab.com/boroscope/documentation](https://gitlab.com/boroscope/software))
 
 ## 📥📨 Contact:
 
